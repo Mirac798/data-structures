@@ -26,7 +26,7 @@ void sorgu(string str){
 
 
 int main(){
-    string str="{a{b}c}}";
+    string str="{a{b}c}";
     sorgu(str);
 
     return 0;
